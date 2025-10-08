@@ -19,7 +19,7 @@ TypeScript 학습 및 실험을 위한 플레이그라운드입니다.
 
 ```bash
 # 실행 방법
-npm run dev src/01/composition_interface_ticket.ts
+npm run dev src/ticket/composition_interface_ticket.ts
 ```
 
 ---
@@ -48,7 +48,7 @@ npm run build
 ```
 ts-playground/
 ├── src/
-│   ├── 01/                    # OOP 학습 프로젝트
+│   ├── ticket/                    # OOP 학습 프로젝트
 │   │   ├── composition_ticket.ts
 │   │   ├── composition_interface_ticket.ts
 │   │   ├── discount_policy.ts
@@ -76,7 +76,7 @@ ts-playground/
 ## 📖 학습 가이드
 
 ### 1️⃣ 객체지향 프로그래밍 (OOP)
-👉 **[src/01/README.md](./src/01/README.md)** 에서 확인하세요!
+👉 **[src/01/README.md](./src/ticket/README.md)** 에서 확인하세요!
 
 - SOLID 원칙이 실제 코드에서 어떻게 적용되는지
 - 각 디자인 패턴의 장단점
@@ -96,10 +96,10 @@ npm run dev src/index.ts
 npm run dev src/test.ts
 
 # OOP 티켓 시스템
-npm run dev src/01/composition_interface_ticket.ts
+npm run dev src/ticket/composition_interface_ticket.ts
 
 # 할인 정책만 테스트
-npm run dev src/01/discount_policy.ts
+npm run dev src/ticket/discount_policy.ts
 ```
 
 ### 새 파일 만들기
@@ -119,7 +119,7 @@ npm run dev src/my-practice.ts
 
 | 폴더 | 주제 | 상세 문서 | 주요 학습 내용 |
 |------|------|-----------|----------------|
-| [`src/01/`](./src/01/) | OOP 기초 | [📖 README](./src/01/README.md) | SOLID, 디자인 패턴, 인터페이스 |
+| [`src/ticket/`](./src/ticket/) | OOP 기초 | [📖 README](./src/ticket/README.md) | SOLID, 디자인 패턴, 인터페이스 |
 | `src/02/` | 🚧 준비중 | - | - |
 | `src/03/` | 🚧 준비중 | - | - |
 
