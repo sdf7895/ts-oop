@@ -9,8 +9,8 @@ TypeScript 학습 및 실험을 위한 플레이그라운드입니다.
 ### 01. 객체지향 프로그래밍 (OOP)
 **티켓 예약 시스템을 통한 OOP 학습**
 
-- 📂 경로: [`src/01/`](./src/ticket/)
-- 📖 상세 문서: [`src/01/README.md`](./src/ticket/README.md)
+- 📂 경로: [`src/ticket/`](./src/ticket/)
+- 📖 상세 문서: [`src/ticket/README.md`](./src/ticket/README.md)
 - 🎯 학습 내용:
   - SOLID 원칙 실전 적용
   - 디자인 패턴 (Strategy, Facade, DTO)
